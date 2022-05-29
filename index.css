@@ -1,0 +1,16 @@
+.many{
+    background-color: aqua;
+    display: grid;
+    grid-template-areas: "1fr 1fr 1fr 1rf";
+    border:2px black solid;
+}
+.ccy{
+    border-right: 2px solid black;
+    
+}
+.base{
+    border-right: 2px solid black;
+}
+.buy{
+    border-right: 2px solid black;
+}
